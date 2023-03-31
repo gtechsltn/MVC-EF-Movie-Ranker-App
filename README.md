@@ -17,7 +17,7 @@ The list of features is long, here are some of them:
 - Implementation of Bootswatch Theme
 - The implementation of Views using Tag Helpers
 - Use of jQuery to provide front end validation
-- Implementation of Tostr Notification Alerts
+- Implementation of Toastr Notification Alerts
 
 ### On the Back End - Database Related:
 - The addition of a Model with Data Annotations that impact table design in the database as well as front end display
